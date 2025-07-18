@@ -74,7 +74,7 @@ Me encanta enfrentarme a nuevos desafíos, descubrir herramientas y tecnologías
 # 📊 Estadísticas de GitHub:
 <div align="center">
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alxrgdriguez&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
+<img width="70%" height=20% src="https://github-readme-stats.vercel.app/api/top-langs/?username=alxrgdriguez&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
 
 </div>
 
