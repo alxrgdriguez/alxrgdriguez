@@ -72,7 +72,11 @@ Me encanta enfrentarme a nuevos desafíos, descubrir herramientas y tecnologías
 
 
 # 📊 Estadísticas de GitHub:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alxrgdriguez&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+<div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alxrgdriguez&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alxrgdriguez&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alxrgdriguez&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
+
+</div>
+
 
