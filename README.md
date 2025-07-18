@@ -1,5 +1,23 @@
-# 💫 Sobre mi:
-¡Hola! 👋<br>Soy Alejandro Rodríguez Gallardo, estudiante del Grado Superior de Desarrollo de Aplicaciones Web en el IES Jaroso, ubicado en Cuevas del Almanzora. Mi pasión por la tecnología y el desarrollo web me impulsa a aprender y mejorar cada día.<br><br>Sobre mí:<br> > 📍 Localización: Águilas, Murcia<br> > 💻 Áreas de interés: Desarrollo web, programación, tecnologías emergentes<br> > 🚀 Objetivo: Convertirme en un desarrollador web competente y contribuir a proyectos innovadores<br><br>Me encanta enfrentarme a nuevos desafíos y ampliar mis conocimientos en el campo del desarrollo web. Estoy siempre buscando nuevas herramientas y tecnologías para mejorar mis habilidades y aportar valor a los proyectos en los que participo.
+# 👋 ¡Hola! Soy Alejandro Rodríguez Gallardo
+
+Soy desarrollador web titulado, especializado en **Desarrollo de Aplicaciones Web**, graduado del [IES Jaroso](https://www.iesjaroso.es/) (Cuevas del Almanzora, Almería).  
+Apasionado por la tecnología, el código limpio y las soluciones innovadoras, siempre busco aprender algo nuevo y mejorar mis habilidades.
+
+---
+
+## 🧑‍💻 Sobre mí
+
+- 📍 **Ubicación:** Águilas, Murcia  
+- 💡 **Áreas de interés:** Desarrollo web (frontend y backend), programación, tecnologías emergentes, frameworks modernos  
+- 🚀 **Objetivo profesional:** Convertirme en un desarrollador web versátil, creativo y comprometido, contribuyendo en proyectos que generen impacto real
+
+---
+
+## 🎯 ¿Qué me motiva?
+
+Me encanta enfrentarme a nuevos desafíos, descubrir herramientas y tecnologías que optimicen el desarrollo y participar en proyectos colaborativos donde pueda seguir creciendo y aportando valor.
+
+---
 
 
 # 💻 Tecnologías:
